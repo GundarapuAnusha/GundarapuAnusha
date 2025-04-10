@@ -14,8 +14,8 @@ I am a passionate Full Stack Web Developer dedicated to building impactful and s
 | Degree           | Institution                | University/Board | CGPA/Percentage | Year       |
 |------------------|---------------------------|------------------|-----------------|------------|
 | B.Tech (CSEH)    | KL University, Guntur      | KLEF             | 9.36 (Till 5th Sem) | 2022-2026  |
-| Senior Secondary | Narayana Junior College     | BIEAP            | 89.6%           | 2020-2022  |
-| Class X          | Narayana India High School  | SSC              | 96%             | 2020       |
+| Senior Secondary | NRI Junior College     | BIEAP            | 95.6%           | 2020-2022  |
+| Class X          | Geethanjali High School  | SSC              | 99%             | 2020       |
 
 ## 💼 Projects
 ### 🔹 FashionMNIST
