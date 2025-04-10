@@ -1,61 +1,48 @@
-👋 Hey there, I'm Batchala Sai Vivek
-💻 Full Stack Web Developer | Tech Enthusiast | Lifelong Learner
-I'm a passionate and results-driven Full Stack Web Developer, currently sharpening my skills in modern web technologies to build scalable, efficient, and user-centric applications. I thrive in collaborative environments and love transforming ideas into real-world solutions.
+# 👋 Hi, I'm GundarapuAnusha
 
-🚀 Tech Stack
-Languages:
-Java | JavaScript | C
+## 👨‍💻 About Me
+I am a passionate Full Stack Web Developer dedicated to building impactful and scalable web applications. Currently, I am honing my skills in modern frameworks and technologies to become industry-ready.
 
-Frontend:
-HTML | CSS | ReactJS
+## 🚀 Tech Stack
+- **Languages:** Java, JavaScript, C
+- **Frontend:** HTML, CSS, ReactJS
+- **Backend:** Spring, Spring Boot, Hibernate, ExpressJS, NodeJS
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools & Platforms:** Git, VS Code, Eclipse, Postman
 
-Backend:
-Spring | Spring Boot | Hibernate | NodeJS | ExpressJS
+## 🎓 Education
+| Degree           | Institution                | University/Board | CGPA/Percentage | Year       |
+|------------------|---------------------------|------------------|-----------------|------------|
+| B.Tech (CSEH)    | KL University, Guntur      | KLEF             | 9.36 (Till 5th Sem) | 2022-2026  |
+| Senior Secondary | Narayana Junior College     | BIEAP            | 89.6%           | 2020-2022  |
+| Class X          | Narayana India High School  | SSC              | 96%             | 2020       |
 
-Databases:
-MongoDB | MySQL | PostgreSQL
+## 💼 Projects
+### 🔹 Online Car Rental System
+- **Duration:** July 2023 - Dec 2023  
+- Developed a MERN stack-based car rental system.
+- Integrated secure payment gateways.
+- Designed API documentation and system architecture.
 
-Tools & Platforms:
-Git | VS Code | Eclipse | Postman
+### 🔹 Online Job Portal System
+- **Duration:** Dec 2023 - Apr 2024  
+- Built using Python Full Stack technologies.
+- Implemented resume scoring and sorting mechanisms.
+- Created comprehensive API documentation for smooth collaboration.
 
-🎓 Education
-Degree	Institution	Board/University	CGPA/Percentage	Duration
-B.Tech (CSEH)	KL University, Guntur	KLEF	9.2 CGPA (Till 5th Sem)	2022 - 2026
-Senior Secondary	Narayana Junior College	BIEAP	89.6%	2020 - 2022
-Class X	Narayana India High School	SSC	96%	2019 - 2020
-💼 Projects
-🔹 Online Car Rental System
-Tech Stack: MERN (MongoDB, ExpressJS, ReactJS, NodeJS)
+## 🎖 Certifications
+- **AWS Certified Cloud Practitioner**
+- **Generative AI (Oracle)**
+- **Salesforce AI Associate**
+- **Red Hat Certified Enterprise Developer**
 
-Developed a responsive car rental platform with secure payment gateway integration.
+## 🏆 Achievements
+- **Maintained a CGPA of 9 ** at KL University (Till 5th Sem)
 
-Designed scalable REST APIs and implemented system architecture.
+## 📞 Contact Me
+- 📧 [2200030122cseh@gmail.com](mailto:2200030122cseh@gmail.com)
+- 📱 +91-86391 88585
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gundarapu-anusha/)
 
-🔹 Online Job Portal System
-Tech Stack: Python Full Stack
-
-Implemented resume scoring and intelligent job matching.
-
-Designed RESTful APIs and documentation for efficient team collaboration.
-
-🎓 Certifications
-🟢 AWS Certified Cloud Practitioner
-
-🟣 Generative AI – Oracle
-
-🔵 Salesforce AI Associate
-
-🔴 Red Hat Certified Enterprise Developer
-
-🏆 Achievements
-📊 Maintained a CGPA of 9.13 at KL University (Till 4th Semester)
-
-🚀 Built impactful projects with real-world applications
-
-📬 Let’s Connect
-📧 Email: 2200032666cseh@gmail.com
-
-📱 Phone: +91-7013598950
-
-🔗 LinkedIn Profile
+Let's connect and build something amazing! 🚀
 
