@@ -32,9 +32,10 @@ I am a passionate Full Stack Web Developer dedicated to building impactful and s
 
 ## 🎖 Certifications
 - **AWS Certified Cloud Practitioner**
-- **Generative AI (Oracle)**
+- **Introduction To Machine Learning - IITKGP**
 - **Salesforce AI Associate**
 - **Red Hat Certified Enterprise Developer**
+- **Teachnook COURSE Completion Certificate**
 
 ## 🏆 Achievements
 - **Maintained a CGPA of 9 ** at KL University (Till 5th Sem)
