@@ -35,7 +35,7 @@ I am a passionate Full Stack Web Developer dedicated to building impactful and s
 - **Introduction To Machine Learning - IITKGP**
 - **Salesforce AI Associate**
 - **Red Hat Certified Enterprise Developer**
-- **Teachnook COURSE Completion Certificate**
+- **Teachnook Course Completion Certificate**
 
 ## 🏆 Achievements
 - **Maintained a CGPA of 9 ** at KL University (Till 5th Sem)
