@@ -18,12 +18,12 @@ I am a passionate Full Stack Web Developer dedicated to building impactful and s
 | Class X          | Narayana India High School  | SSC              | 96%             | 2020       |
 
 ## 💼 Projects
-### 🔹 Online Car Rental System
-- **Duration:** July 2023 - Dec 2023  
-- Developed a MERN stack-based car rental system.
-- Integrated secure payment gateways.
-- Designed API documentation and system architecture.
-
+### 🔹 FashionMNIST
+- **Duration:** Dec 2024 - April 2025
+- Developed a fashionMNIST classification model using deep learning techniques.
+- Preprocessed and cleaned fashion dataset to improve model accuracy and performance.
+- Implemented a Convolutional Neural Network (CNN) architecture for image recognition.
+- Evaluated model performance with various metrics like accuracy, precision, and recall.
 ### 🔹 Online Job Portal System
 - **Duration:** Dec 2023 - Apr 2024  
 - Built using Python Full Stack technologies.
